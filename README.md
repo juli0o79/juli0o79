@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**juli0o79/juli0o79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, meu nome é Júlio César 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Iniciei minha jornada tentando descobrir o que me inspirava e acabei apostando na área de design que, felizmente, se tornou uma paixão. No caminho acabei me envolvendo em projetos dos mais diversos tipos dentro do universo que é o design, mas acabei me focando na area de criação gráfica e desenvolvimento web. Atualmente, estou me especializando como um desenvolvedor front-end.
+
+# Habilidades de desenvolvimento
+
+• Html
+• Css
+• Javascript
+• React
+• Styled components
+• Angular
+• UI Design
+• Git
+
+# Habilidades com softwares de prototipação
+
+• Illustrator 
+• Photoshop
+• Adobe XD
+
