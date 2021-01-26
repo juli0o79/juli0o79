@@ -2,7 +2,7 @@
 # Olá, meu nome é Júlio César 👋
 
 
-Iniciei minha jornada tentando descobrir o que me inspirava e acabei apostando na área de design que, felizmente, se tornou uma paixão. No caminho acabei me envolvendo em projetos dos mais diversos tipos dentro do universo que é o design, mas acabei me focando na area de criação gráfica e desenvolvimento web. Atualmente, estou me especializando como um desenvolvedor front-end.
+Iniciei minha jornada tentando descobrir o que me inspirava e acabei apostando na área de design que, felizmente, se tornou uma paixão. No caminho acabei me envolvendo em projetos dos mais diversos tipos dentro do universo que é o design, mas acabei me focando na área de criação gráfica e desenvolvimento web. Nos últimos anos venho trabalhando e me especializando em projetos e aplicações front-end, utilizando as linguagens html, css, javascript e os frameworks react e angular, além de fazer integração com outros serviços como firebase e versionamento pelo git.
 
 ## Habilidades de desenvolvimento
 
